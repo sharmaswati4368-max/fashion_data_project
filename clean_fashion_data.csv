@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,status,name,gender,region,signup_date,item_id,product_id,quantity,discount,product_name,category,sub_category,price,total_price
+101,1,2023-03-25,Delivered,Swati Sharma,Female,North,2023-01-10,1,1001,2,100,Denim Jeans,Clothing,Bottomwear,1200,2200
+102,2,2023-04-02,Shipped,Amit Verma,Male,West,2023-02-15,2,1002,1,0,Leather Jacket,Clothing,Outerwear,3500,3500
+103,3,2023-05-10,Cancelled,Riya Sen,Female,South,2023-03-20,3,1003,1,200,Sneakers,Footwear,Casual,2200,2000
